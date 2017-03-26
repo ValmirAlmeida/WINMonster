@@ -1,0 +1,6 @@
+br.uefs.ecomp.WINMonster.controller
+br.uefs.ecomp.WINMonster.exceptions
+br.uefs.ecomp.WINMonster.persistencia
+br.uefs.ecomp.WINMonster.persistencia.Arquivo
+br.uefs.ecomp.WINMonster.util
+br.uefs.ecomp.WINMonster.view

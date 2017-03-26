@@ -1,0 +1,1 @@
+Minha vida social acabou no primeiro dia de MI Programação
